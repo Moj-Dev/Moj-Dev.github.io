@@ -1,5 +1,15 @@
-theme: jekyll-theme-minimal
 title: Moj Ahangar
-description: Software Developer - Robotics
-logo: https://media-exp1.licdn.com/dms/image/C5603AQEjpWRtfGTu9Q/profile-displayphoto-shrink_800_800/0/1593112650172?e=1626307200&v=beta&t=_8iQKxnbGrZ3UbyAC1tOFfIV193I99dadgJh3pVN9DA
-show_downloads: true
+position: Robotics Developer
+affiliation: MetaOptima Technology Inc.
+email: yourname (at) example.edu
+keywords: Robotics
+google_scholar: https://scholar.google.com/citations?user=eVubQIsAAAAJ&hl=en
+github_link: https://github.com/Moj-Dev
+linkedin: https://www.linkedin.com/in/mojtaba-ahangar-0bb326102/
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
