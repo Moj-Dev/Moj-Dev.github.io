@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## About Mojtaba
 
-I am a robotic developer. I enjoy solving real-world research problems and particularly enjoy working on high-speed, vision-based perception and planning for robotics. Currently, I am working at Metaoptima company with utilizing and developing my skills in control and computer vision to design and develop DermDrone; a mini quadcopter capable of scanning humans in an indoor environment.
+<div style="text-align: justify"> I am a robotic developer. I enjoy solving real-world research problems and particularly enjoy working on high-speed, vision-based perception and planning for robotics. Currently, I am working at Metaoptima company with utilizing and developing my skills in control and computer vision to design and develop DermDrone; a mini quadcopter capable of scanning humans in an indoor environment.  </div>
 
 ## Research Interests
 
