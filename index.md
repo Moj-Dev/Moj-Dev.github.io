@@ -6,6 +6,7 @@ layout: homepage
 
 <div style="text-align: justify"> I am a robotic developer. I enjoy solving real-world research problems and particularly enjoy working on high-speed, vision-based perception and planning for robotics. Currently, I am working at Metaoptima company with utilizing and developing my skills in control and computer vision to design and develop DermDrone; a mini quadcopter capable of scanning humans in an indoor environment.  </div>
 
+
 ## Research Interests
 
 - **Robotics:** Navigation and Path Planning, Real-time Localisation Algorithm, Control theory, Autonomous Mulit-rotors, System Design
@@ -23,14 +24,26 @@ layout: homepage
 
 - **Viewpoint Selection for DermDrone using Deep Reinforcement Learning**
   <br>
-  **Mojtaba Ahangar Arzati**, Siamak Arzanpour
-  <br>
-   21st International Conference on Control, Automation and Systems **ICCAS 2021**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  **Mojtaba Ahangar Arzati**, Siamak Arzanpour <br> 21st International Conference on Control, Automation and Systems ICCAS 2021.<br>
+- **Design and Implementation of Robust H∞ Control for a Quadrotor**
+  <br> A. Noormohammadi Asl, O. Esrafilian, **M. Ahangar**,H.D. Taghiradm <br> Mechanical Systems and Signal Processing 135, 106358.
+- **Estimation of Moving Obstacle Dynamics with Mobile RGB-D Camera**
+- <br> Saeed Bakhshi Germi, Alireza Zamanian, **M. Ahangar**, Mohammad A. Khosravi and R. FesharakiFard <br> 5th International Conference on Robotics and Mechatronics (ICROM 2017), Tehran, 2017. 
 
+## Awards
 
+- Graduate Fellowship at Simon Fraser University (Spring 2021)
+- **1st Place** Award in The International Micro Air Vehicle Competition (IMAV), indoor competition, 2016, China, Beijing
+- **1st Place** Award in UAV League of International RoboCup, IRANOPEN 2016, Tehran, IRAN.
+- **1st Place** Award in Deminer Robot League of International RoboCup, IRANOPEN2015, Tehran, IRAN.
+- Received the **Best bachelor project** in faculty of electrical and computer engineering
+- Received the **Premier Young of the year** award, Golestan (My birthplace province), 2017.
+- Qualified as a member of **Iran’s elite** national foundation (Bonyad Melli Nokhbegan Iran).
+- **Ranked 56th** among 50K, in The Iranian National University Entrance Examination (964/252K).
+- Received the **3rd Place** Awards in UAV Robot League, SHARIFCUP, 2016, Tehran, IRAN.
+- Received the **Creativity** Awards in KNTU EGG DROP, 2015, Tehran, IRAN.
+- 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV. 
+- Member of Technical Committee: RoboCup Asia Pacific 2018, RoboCup IranOpen 2017-2019
+- Leader of KN2C robotic team
