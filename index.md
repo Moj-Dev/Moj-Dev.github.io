@@ -28,7 +28,7 @@ layout: homepage
 - **Design and Implementation of Robust H∞ Control for a Quadrotor**
   <br> A. Noormohammadi Asl, O. Esrafilian, **M. Ahangar**,H.D. Taghiradm <br> Mechanical Systems and Signal Processing 135, 106358.
 - **Estimation of Moving Obstacle Dynamics with Mobile RGB-D Camera**
-- <br> Saeed Bakhshi Germi, Alireza Zamanian, **M. Ahangar**, Mohammad A. Khosravi and R. FesharakiFard <br> 5th International Conference on Robotics and Mechatronics (ICROM 2017), Tehran, 2017. 
+  <br> Saeed Bakhshi Germi, Alireza Zamanian, **M. Ahangar**, Mohammad A. Khosravi and R. FesharakiFard <br> 5th International Conference on Robotics and Mechatronics (ICROM 2017), Tehran, 2017. 
 
 ## Awards
 
