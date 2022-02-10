@@ -42,7 +42,7 @@ layout: homepage
 - **Ranked 56th** among 50K, in The Iranian National University Entrance Examination (964/252K).
 - Received the **3rd Place** Awards in UAV Robot League, SHARIFCUP, 2016, Tehran, IRAN.
 - Received the **Creativity** Awards in KNTU EGG DROP, 2015, Tehran, IRAN.
-- 
+
 ## Services
 
 - Member of Technical Committee: RoboCup Asia Pacific 2018, RoboCup IranOpen 2017-2019
