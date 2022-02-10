@@ -18,7 +18,7 @@ layout: homepage
 - **[Feb. 2022]** I am glad to announce that I joined to MetaOptima as a full employee.
 - **[Dec. 2021]** Master's thesis Defended!
 - **[Oct. 2021]** After finishing my Mitacs internship at MetaOptima, I'm continuing my work with this lovely family as a part-time employee!
-- **[Aug. 2019]** Our paper titled “Viewpoint Selection for DermDrone using Deep Reinforcement Learning” is accepted to ICCAS 2021.
+- **[Aug. 2021]** Our paper titled “Viewpoint Selection for DermDrone using Deep Reinforcement Learning” is accepted to ICCAS 2021.
 
 ## Publications
 
