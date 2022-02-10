@@ -9,9 +9,9 @@ layout: homepage
 ## Education
 
 - **Simon Fraser University (SFU):** 
-Master of Applied Science in Mechatronic Systems Engineering, 2019–2021, Canada
+<br> Master of Applied Science in Mechatronic Systems Engineering, 2019–2021, Canada
 - **K. N. Toosi University of Technology (KNTU):** 
-Bachelor of Science in Electrical Engineering-Control, 2013-2018, Iran
+<br> Bachelor of Science in Electrical Engineering-Control, 2013-2018, Iran
 
 ## Research Interests
 
