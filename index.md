@@ -8,8 +8,10 @@ layout: homepage
 
 ## Education
 
-- **Simon Fraser University (SFU):** Master of Applied Science in Mechatronic Systems Engineering, 2019–2021, Canada
-- **K. N. Toosi University of Technology (KNTU):** Bachelor of Science in Electrical Engineering-Control, 2013-2018, Iran
+- **Simon Fraser University (SFU):** 
+Master of Applied Science in Mechatronic Systems Engineering, 2019–2021, Canada
+- **K. N. Toosi University of Technology (KNTU):** 
+Bachelor of Science in Electrical Engineering-Control, 2013-2018, Iran
 
 ## Research Interests
 
@@ -35,7 +37,7 @@ layout: homepage
   <br> Saeed Bakhshi Germi, Alireza Zamanian, **M. Ahangar**, Mohammad A. Khosravi and R. FesharakiFard <br> 5th International Conference on Robotics and Mechatronics (ICROM 2017), Tehran, 2017. 
 
 
-## Thesis
+## Theses
 
 - **Design and Control of DermDrone, a quadrotor for dermatology applications with RL-based optimization**, Supervisor: Prof. Siamak Arzanpour
 - **Real-time assistive interaction with smart objects using smart glasses for people with dementia**, Supervisor: Dr. Mehdi Delrobaei. The thesis received the Best bachelor project award in the faculty of electrical and computer engineering in KNTU.
